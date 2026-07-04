@@ -28,6 +28,15 @@ A simple Bank Management System developed using Python and Object-Oriented Progr
 
 ---
 
+## What I Learned
+
+- Object-Oriented Programming
+- File Handling
+- JSON
+- CRUD Operations
+- Class Methods
+- Static Methods
+
 ## 📂 Project Structure
 
 ```
@@ -51,6 +60,7 @@ Bank-Management-System
 - Input Validation
 
 ---
+
 
 ## ▶️ How to Run
 
