@@ -22,9 +22,9 @@ A simple Bank Management System developed using Python and Object-Oriented Progr
 - Python
 - Object-Oriented Programming (OOP)
 - JSON
-- pathlib
-- random
-- string
+- Pathlib
+- Random module
+- String module
 
 ---
 
